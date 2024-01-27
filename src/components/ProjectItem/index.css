@@ -1,0 +1,17 @@
+.project-item {
+  list-style-type: none;
+  box-shadow: 1px 1px #e2e8f0;
+  width: 280px;
+  border-radius: 12px;
+  margin: 10px;
+}
+
+.project-image {
+  width: 280px;
+}
+
+.project-name {
+  padding-left: 20px;
+  padding-bottom: 5px;
+  font-weight: 500;
+}

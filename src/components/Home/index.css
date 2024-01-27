@@ -1,0 +1,41 @@
+.website-logo {
+  width: 150px;
+  margin-left: 30px;
+}
+
+.navbar {
+  background-color: #cbd5e1;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.select-container {
+  padding: 10px;
+  width: 300px;
+}
+
+.home-page-container {
+  width: 90%;
+}
+
+.home-page-bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}
+
+.projects-list-view {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
